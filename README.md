@@ -8,7 +8,7 @@ A simple yet engaging Snake Maze Game built using **C** and the **[raylib](https
 The objective is clear:  
 > **Navigate the snake through the red maze and eat the green square to win!**
 
-![Snake Maze Game Screenshot](./6a818ac1-4185-40a3-857a-18f6aad10d45.png)
+![Snake Maze Game Screenshot](./game.png)
 
 ---
 
